@@ -53,6 +53,7 @@ div{
 .nav li {
     float: left;
 }
+.nav li:hover {background: #6EAA30;}
 .nav {
     font-family: "Roboto Slab", serif;
     margin-left: 230px;
@@ -120,6 +121,9 @@ p {
     line-height: 1.2;
     color: #555;
 }
+.side-text{
+    padding-top: 10px;
+}
 .link {
     background: #6eaa30;
     color: #fff;
@@ -135,12 +139,8 @@ p {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    flex-wrap: wrap;
     background-color:#6EAA30;
-    font-size: 15px;
     color:white;
     font-family: Roboto slap,serif;
-    margin: auto;
     padding: 10px;
-    margin-top:50px;
 }
