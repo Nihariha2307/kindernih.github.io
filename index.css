@@ -118,6 +118,7 @@ p {
 }
 .folder .folder-content {
     padding: 1rem 0;
+    display: flex;
     line-height: 1.2;
     color: #555;
 }
@@ -126,10 +127,11 @@ p {
 }
  .text {
     padding-top: 10px;
+    padding-left: 15px;;
 
 }
 .box-content{
-    display: flex;
+    line-height: 29px;
     padding-top: 10px;
 }
 .link {
