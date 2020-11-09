@@ -121,7 +121,15 @@ p {
     line-height: 1.2;
     color: #555;
 }
-.side-text{
+ .date{
+    display: flex;
+}
+ .text {
+    padding-top: 10px;
+
+}
+.box-content{
+    display: flex;
     padding-top: 10px;
 }
 .link {
